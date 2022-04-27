@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1 span {
+    font-weight: 900;
+    color: indigo;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #e0d6d1;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    display: grid;
+    align-items: flex-start;
+    gap: 50px;
+    grid-template-areas:
+    'game next'
+    'game score';
+}
+
+.game-area {
+    border: 2px solid black;
+    border-top: 0;
+    display: block;
+    border-color: indigo;
+}
+
