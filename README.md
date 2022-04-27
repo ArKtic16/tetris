@@ -2,4 +2,4 @@
 <hr>
 This is the first JS game that I wrote myself
 <hr>
-![Иллюстрация к проекту](images/icon.png)
+![Иллюстрация к проекту](https://github.com/ArKtic16/tetris/blob/main/images/icon.png)
